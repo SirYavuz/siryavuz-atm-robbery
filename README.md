@@ -1,5 +1,6 @@
 # siryavuz-atm-robbery
-[ESX]
+[ESX].
+
  Discord : SirYavuz#0001
  Discord : https://discord.com/invite/6YGkHMd
  
