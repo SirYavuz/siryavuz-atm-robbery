@@ -9,5 +9,7 @@
  
  mythic_notify :.
  
+ mhacking : https://forum.cfx.re/t/release-simple-hacking-minigame/62095
+ 
  Video : https://www.youtube.com/watch?v=oRufMRsGxGk&t=17s&ab_channel=SirYavuz
  
